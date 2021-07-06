@@ -79,7 +79,26 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":30,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Script",
+                     "halign":"center",
+                     "pixelsize":20,
+                     "text":"Kampfplatz",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":140,
+                 "x":170.666666666667,
+                 "y":943.833333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -87,7 +106,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":1,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -239,6 +239,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"WhiteSkullBattlearena"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"objectgroup",
          "visible":true,

@@ -104,6 +104,26 @@
                  "width":140,
                  "x":170.666666666667,
                  "y":943.833333333333
+                }, 
+                {
+                 "height":30,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Script",
+                     "halign":"center",
+                     "pixelsize":20,
+                     "text":"Versammlungsbereich",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":250,
+                 "x":920,
+                 "y":875
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -124,7 +144,7 @@
          "y":0
         }],
  "nextlayerid":20,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {

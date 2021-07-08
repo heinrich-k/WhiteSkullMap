@@ -104,6 +104,26 @@
                  "width":140,
                  "x":170.666666666667,
                  "y":943.833333333333
+                }, 
+                {
+                 "height":40,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "halign":"center",
+                     "pixelsize":27,
+                     "text":"Versammlungsbereich",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":320,
+                 "x":850,
+                 "y":970
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -124,7 +144,7 @@
          "y":0
         }],
  "nextlayerid":20,
- "nextobjectid":8,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1798,7 +1818,13 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "id":453,
@@ -2422,7 +2448,13 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
